@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">CalculatorApp</string>
+	<string name="textview">TextView</string>
+	<string name="_1">1</string>
+
+	<string name="button">Button</string>
+	<string name="_7">7</string>
+	<string name="_8">8</string>
+	<string name="_0">0</string>
+	<string name="_12343543">12343543</string>
+</resources>
